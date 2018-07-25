@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="phone_number_hint">Enter the Phone Number</string>
+    <string name="mail_hint">Enter the E-mail</string>
+    <string name="url_hint">Enter the Github Url</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
